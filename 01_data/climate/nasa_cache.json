@@ -1,0 +1,352 @@
+{
+  "42.2_-74.9": {
+    "flood_freq_score": 0.0549,
+    "drought_idx": 0.5317,
+    "temp_anomaly": 1.6983,
+    "extreme_events": 20,
+    "physical_risk_score": 0.442
+  },
+  "46.4_-93.1": {
+    "flood_freq_score": 0.0549,
+    "drought_idx": 0.5677,
+    "temp_anomaly": 1.9296,
+    "extreme_events": 20,
+    "physical_risk_score": 0.4682
+  },
+  "34.8_-92.2": {
+    "flood_freq_score": 0.0549,
+    "drought_idx": 0.6206,
+    "temp_anomaly": 1.4661,
+    "extreme_events": 20,
+    "physical_risk_score": 0.4532
+  },
+  "31.1_-97.6": {
+    "flood_freq_score": 0.0549,
+    "drought_idx": 0.5255,
+    "temp_anomaly": 1.824,
+    "extreme_events": 20,
+    "physical_risk_score": 0.4485
+  },
+  "31.2_-91.8": {
+    "flood_freq_score": 0.0549,
+    "drought_idx": 0.6238,
+    "temp_anomaly": 1.4124,
+    "extreme_events": 20,
+    "physical_risk_score": 0.4505
+  },
+  "42.2_-71.5": {
+    "flood_freq_score": 0.0549,
+    "drought_idx": 0.4857,
+    "temp_anomaly": 1.6818,
+    "extreme_events": 20,
+    "physical_risk_score": 0.4271
+  },
+  "36.8_-119.4": {
+    "flood_freq_score": 0.0549,
+    "drought_idx": 0.4068,
+    "temp_anomaly": 1.0179,
+    "extreme_events": 20,
+    "physical_risk_score": 0.3591
+  },
+  "47.4_-121.5": {
+    "flood_freq_score": 0.0549,
+    "drought_idx": 0.5913,
+    "temp_anomaly": 0.9466,
+    "extreme_events": 20,
+    "physical_risk_score": 0.4097
+  },
+  "32.2_-83.4": {
+    "flood_freq_score": 0.0549,
+    "drought_idx": 0.5704,
+    "temp_anomaly": 1.0846,
+    "extreme_events": 20,
+    "physical_risk_score": 0.4127
+  },
+  "38.5_-117.1": {
+    "flood_freq_score": 0.0549,
+    "drought_idx": 0.5375,
+    "temp_anomaly": 1.1126,
+    "extreme_events": 20,
+    "physical_risk_score": 0.4046
+  },
+  "39.8_-86.1": {
+    "flood_freq_score": 0.0495,
+    "drought_idx": 0.5196,
+    "temp_anomaly": 1.7882,
+    "extreme_events": 19,
+    "physical_risk_score": 0.4349
+  },
+  "27.8_-81.6": {
+    "flood_freq_score": 0.0549,
+    "drought_idx": 0.5706,
+    "temp_anomaly": 1.1918,
+    "extreme_events": 20,
+    "physical_risk_score": 0.4199
+  },
+  "40.1_-74.5": {
+    "flood_freq_score": 0.0549,
+    "drought_idx": 0.5566,
+    "temp_anomaly": 1.6832,
+    "extreme_events": 20,
+    "physical_risk_score": 0.4484
+  },
+  "37.5_-78.5": {
+    "flood_freq_score": 0.0549,
+    "drought_idx": 0.6174,
+    "temp_anomaly": 1.4901,
+    "extreme_events": 19,
+    "physical_risk_score": 0.4463
+  },
+  "40.0_-89.2": {
+    "flood_freq_score": 0.0495,
+    "drought_idx": 0.5683,
+    "temp_anomaly": 1.5393,
+    "extreme_events": 19,
+    "physical_risk_score": 0.4329
+  },
+  "44.3_-89.8": {
+    "flood_freq_score": 0.0549,
+    "drought_idx": 0.5731,
+    "temp_anomaly": 2.0246,
+    "extreme_events": 20,
+    "physical_risk_score": 0.4761
+  },
+  "40.9_-77.8": {
+    "flood_freq_score": 0.0549,
+    "drought_idx": 0.5564,
+    "temp_anomaly": 1.5584,
+    "extreme_events": 20,
+    "physical_risk_score": 0.44
+  },
+  "38.3_-92.5": {
+    "flood_freq_score": 0.0549,
+    "drought_idx": 0.562,
+    "temp_anomaly": 1.7591,
+    "extreme_events": 19,
+    "physical_risk_score": 0.4476
+  },
+  "40.4_-82.8": {
+    "flood_freq_score": 0.0549,
+    "drought_idx": 0.5806,
+    "temp_anomaly": 1.5893,
+    "extreme_events": 20,
+    "physical_risk_score": 0.4494
+  },
+  "39.0_-105.5": {
+    "flood_freq_score": 0.0549,
+    "drought_idx": 0.5648,
+    "temp_anomaly": 1.2784,
+    "extreme_events": 20,
+    "physical_risk_score": 0.4239
+  },
+  "35.7_-86.7": {
+    "flood_freq_score": 0.0549,
+    "drought_idx": 0.6183,
+    "temp_anomaly": 1.1675,
+    "extreme_events": 20,
+    "physical_risk_score": 0.4326
+  },
+  "44.3_-85.4": {
+    "flood_freq_score": 0.0549,
+    "drought_idx": 0.5436,
+    "temp_anomaly": 1.9455,
+    "extreme_events": 20,
+    "physical_risk_score": 0.462
+  },
+  "41.6_-72.7": {
+    "flood_freq_score": 0.0549,
+    "drought_idx": 0.5258,
+    "temp_anomaly": 1.6997,
+    "extreme_events": 20,
+    "physical_risk_score": 0.4403
+  },
+  "41.5_-99.9": {
+    "flood_freq_score": 0.0549,
+    "drought_idx": 0.5249,
+    "temp_anomaly": 2.0266,
+    "extreme_events": 20,
+    "physical_risk_score": 0.4618
+  },
+  "39.1_-76.8": {
+    "flood_freq_score": 0.0549,
+    "drought_idx": 0.6103,
+    "temp_anomaly": 1.7609,
+    "extreme_events": 20,
+    "physical_risk_score": 0.4697
+  },
+  "35.6_-79.8": {
+    "flood_freq_score": 0.0549,
+    "drought_idx": 0.5951,
+    "temp_anomaly": 1.3119,
+    "extreme_events": 20,
+    "physical_risk_score": 0.4352
+  },
+  "39.4_-111.1": {
+    "flood_freq_score": 0.0549,
+    "drought_idx": 0.5892,
+    "temp_anomaly": 1.255,
+    "extreme_events": 20,
+    "physical_risk_score": 0.4297
+  },
+  "33.8_-81.2": {
+    "flood_freq_score": 0.0549,
+    "drought_idx": 0.6028,
+    "temp_anomaly": 1.0627,
+    "extreme_events": 20,
+    "physical_risk_score": 0.4209
+  },
+  "44.6_-122.1": {
+    "flood_freq_score": 0.0549,
+    "drought_idx": 0.5765,
+    "temp_anomaly": 1.3221,
+    "extreme_events": 20,
+    "physical_risk_score": 0.4303
+  },
+  "35.6_-96.9": {
+    "flood_freq_score": 0.0549,
+    "drought_idx": 0.5651,
+    "temp_anomaly": 1.725,
+    "extreme_events": 20,
+    "physical_risk_score": 0.4537
+  },
+  "44.4_-100.2": {
+    "flood_freq_score": 0.0549,
+    "drought_idx": 0.5188,
+    "temp_anomaly": 1.9511,
+    "extreme_events": 20,
+    "physical_risk_score": 0.455
+  },
+  "38.6_-80.6": {
+    "flood_freq_score": 0.0549,
+    "drought_idx": 0.6776,
+    "temp_anomaly": 1.5012,
+    "extreme_events": 20,
+    "physical_risk_score": 0.4726
+  },
+  "44.0_-72.7": {
+    "flood_freq_score": 0.0549,
+    "drought_idx": 0.5467,
+    "temp_anomaly": 1.963,
+    "extreme_events": 20,
+    "physical_risk_score": 0.4641
+  },
+  "32.8_-86.8": {
+    "flood_freq_score": 0.0549,
+    "drought_idx": 0.673,
+    "temp_anomaly": 0.9976,
+    "extreme_events": 20,
+    "physical_risk_score": 0.4376
+  },
+  "32.7_-89.7": {
+    "flood_freq_score": 0.0549,
+    "drought_idx": 0.6283,
+    "temp_anomaly": 1.204,
+    "extreme_events": 20,
+    "physical_risk_score": 0.438
+  },
+  "34.3_-111.1": {
+    "flood_freq_score": 0.0549,
+    "drought_idx": 0.5211,
+    "temp_anomaly": 1.0699,
+    "extreme_events": 19,
+    "physical_risk_score": 0.3894
+  },
+  "19.9_-155.6": {
+    "flood_freq_score": 0.0549,
+    "drought_idx": 0.5766,
+    "temp_anomaly": 0.331,
+    "extreme_events": 19,
+    "physical_risk_score": 0.3568
+  },
+  "39.0_-75.5": {
+    "flood_freq_score": 0.0549,
+    "drought_idx": 0.5383,
+    "temp_anomaly": 1.682,
+    "extreme_events": 20,
+    "physical_risk_score": 0.4428
+  },
+  "34.4_-106.1": {
+    "flood_freq_score": 0.0495,
+    "drought_idx": 0.5212,
+    "temp_anomaly": 1.2539,
+    "extreme_events": 19,
+    "physical_risk_score": 0.3998
+  },
+  "46.9_-110.5": {
+    "flood_freq_score": 0.0549,
+    "drought_idx": 0.6012,
+    "temp_anomaly": 1.5801,
+    "extreme_events": 20,
+    "physical_risk_score": 0.4549
+  },
+  "37.5_-85.3": {
+    "flood_freq_score": 0.0549,
+    "drought_idx": 0.6591,
+    "temp_anomaly": 1.5672,
+    "extreme_events": 19,
+    "physical_risk_score": 0.4639
+  },
+  "44.7_-69.4": {
+    "flood_freq_score": 0.0549,
+    "drought_idx": 0.5209,
+    "temp_anomaly": 2.056,
+    "extreme_events": 20,
+    "physical_risk_score": 0.4626
+  },
+  "43.5_-71.6": {
+    "flood_freq_score": 0.0549,
+    "drought_idx": 0.6127,
+    "temp_anomaly": 1.9357,
+    "extreme_events": 20,
+    "physical_risk_score": 0.4821
+  },
+  "43.0_-107.6": {
+    "flood_freq_score": 0.0549,
+    "drought_idx": 0.5181,
+    "temp_anomaly": 1.1091,
+    "extreme_events": 20,
+    "physical_risk_score": 0.3986
+  },
+  "38.5_-98.4": {
+    "flood_freq_score": 0.0495,
+    "drought_idx": 0.5392,
+    "temp_anomaly": 1.7683,
+    "extreme_events": 19,
+    "physical_risk_score": 0.4395
+  },
+  "41.6_-71.5": {
+    "flood_freq_score": 0.0549,
+    "drought_idx": 0.5311,
+    "temp_anomaly": 1.6835,
+    "extreme_events": 19,
+    "physical_risk_score": 0.4333
+  },
+  "39.5_-98.4": {
+    "flood_freq_score": 0.0549,
+    "drought_idx": 0.5428,
+    "temp_anomaly": 1.9256,
+    "extreme_events": 20,
+    "physical_risk_score": 0.4604
+  },
+  "44.1_-114.5": {
+    "flood_freq_score": 0.0549,
+    "drought_idx": 0.5717,
+    "temp_anomaly": 1.4426,
+    "extreme_events": 20,
+    "physical_risk_score": 0.4369
+  },
+  "47.5_-100.5": {
+    "flood_freq_score": 0.0549,
+    "drought_idx": 0.5193,
+    "temp_anomaly": 1.96,
+    "extreme_events": 20,
+    "physical_risk_score": 0.4557
+  },
+  "64.2_-153.4": {
+    "flood_freq_score": 0.0549,
+    "drought_idx": 0.5116,
+    "temp_anomaly": 0.8474,
+    "extreme_events": 20,
+    "physical_risk_score": 0.3792
+  }
+}

@@ -1,0 +1,7 @@
+﻿venv/
+__pycache__/
+*.pyc
+01_data/raw/
+01_data/processed/
+04_outputs/portfolio_cpd.csv
+04_outputs/portfolio_stress_test.csv
